@@ -1,0 +1,8 @@
+.container{
+    border: dotted 2px blue;
+}
+.inner_most{
+  border: solid 2px brown; 
+  padding: 20px;
+  margin: 5%; 
+}
